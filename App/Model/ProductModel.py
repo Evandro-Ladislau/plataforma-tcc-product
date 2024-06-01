@@ -7,4 +7,4 @@ class ProductModel:
         self.quantity = quantity
         self.price = price
         self.active = True
-        self.creted_at = datetime.now()
+        self.created_at = datetime.now()
